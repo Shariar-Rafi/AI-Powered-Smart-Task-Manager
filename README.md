@@ -4,6 +4,10 @@
 
 This is a modern, responsive task management application built with Next.js, React, and TypeScript. It offers standard task management functionalities (add, edit, delete, mark status) and integrates with the Google Gemini API to provide intelligent subtask suggestions for any given task, helping users break down their activities into actionable steps.
 
+## Live Preview Link
+
+https://smart-task-manager-v1.vercel.app/
+
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
