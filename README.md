@@ -8,6 +8,11 @@ This is a modern, responsive task management application built with Next.js, Rea
 
 https://smart-task-manager-v1.vercel.app/
 
+## **Screenshots**
+<img src="https://github.com/Shariar-Rafi/AI-Powered-Smart-Task-Manager/blob/main/screencapture-smart-task-manager-v1-vercel-app-2025-10-19-10_57_32.png" >
+<img src="https://github.com/Shariar-Rafi/AI-Powered-Smart-Task-Manager/blob/main/screencapture-smart-task-manager-v1-vercel-app-2025-10-19-11_03_08.png" >
+
+
 ## Getting Started
 
 Follow these instructions to set up and run the project locally.
